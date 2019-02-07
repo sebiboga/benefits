@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    padding-bottom: 50px;
+    background-color: #f2f1f0;
+}
+
+.endava-logo {
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.container {
+    height: 100%;
+}
+
+.container h1{
+    text-align: center;
+    padding: 60px 5px 5px 5px;
+}
+
+.container h3{
+    float: left;
+}
+
+.container-items{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.container-items .items {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.space-between { 
+    justify-content: flex-start; 
+}  
+
+.item-wrapper {
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    position:relative;
+/* }
+
+.item { */
+    flex: 1 0 16%;
+    background: white;
+    /* padding: 5px; */
+    height: 200px;
+    width: 57px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: 20px 30px 0 0;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.item-wrapper:hover .item {
+    opacity: 0.3;
+}
+  
+.item-wrapper:hover .middle {
+    opacity: 1;
+}
+  
+.text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+
+.item-7{
+    flex: 1 0 auto;
+    background: tomato;
+    padding: 5px;
+    height: 200px;
+    width: 57px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: 20px 30px 0 0;
+}
+
+.item-image{
+    height: 50%;
+    width: 100%;
+}
+
+.item-text{
+    margin: 0;
+    overflow: hidden;
+    font-size: 15px;
+    line-height: 20px;
+    color: #060100;
+}
+
+.item-title {
+    text-transform: uppercase;
+}
+
+.item-description {
+    width: 165px;
+    height: 46px;
+    color: #979797;
+}
+
+.show-more {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.show-more button{
+    background: #fff;
+    border: 1px solid tomato;
+    height: 50px;
+    width: 210px;
+    font-weight: bold;
+    color: tomato;
+}
+
+footer{
+    height: 350px;
+    border-top: 5px solid grey;
+}
+
+.footer-container{
+    height: 300px;
+}
+
+.endava-benefits{
+    float: left;
+    padding: 30px;
+}
+
+.links{
+    float: right;
+    display: flex;
+}
+
+.endava-links{
+    margin-right: 50px;
+}
+
+.other{
+    margin-right: 50px;
+}
+
+.copyright{
+    text-align: center;
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) {
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+
+}
+
+
+
+
+
+

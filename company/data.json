@@ -1,0 +1,226 @@
+{
+  "categories": [{
+      "categorytitle": "Last Minute Offer",
+      "items": [{
+          "title": "O scrisoare pierduta",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "Electric Castle",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "https://electriccastle.ro/"
+        },
+        {
+          "title": "Zain is design",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "The cure",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Al Di Meola",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    },
+
+    {
+      "categorytitle": "Social events",
+      "items": [{
+          "title": "Bon Jovi - 2019 tour",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "Jazz in the park",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Motorhead",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Haggard",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Bohemian Rapsody",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    },
+    
+    {
+      "categorytitle": "Endava Trainings",
+      "items": [{
+          "title": "Technical Skills Training",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "Soft Skills Training",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Development Training",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    },
+
+    {
+      "categorytitle": "Health & Lifestyle",
+      "items": [{
+          "title": "7 Card",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "World Class",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Medlife",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Regina Maria",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Pearle Spa",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    },
+
+    {
+      "categorytitle": "Banks",
+      "items": [{
+          "title": "Raiffeisen",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "ING",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "BRD",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "CEC",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "BT",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "BCR",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    },
+
+    {
+      "categorytitle": "Other Discounts",
+      "items": [{
+          "title": "Untold",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+
+        {
+          "title": "Noah",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Orange",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Wizzair",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Car Wash",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        },
+        {
+          "title": "Zara",
+          "description": "5 tickets until 10 dec 2018",
+          "img_url": "./photos/images.jpg",
+          "link": "http://#"
+        }
+
+      ]
+    }
+
+
+  ]
+}
